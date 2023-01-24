@@ -1,0 +1,16 @@
+C:\Users\Student\Desktop\AliBabaHelperApp\AliBabaHelperApp\obj\Debug\net6.0\AliBabaHelperApp.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\AliBabaHelperApp\AliBabaHelperApp\obj\Debug\net6.0\AliBabaHelperApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\AliBabaHelperApp\AliBabaHelperApp\obj\Debug\net6.0\AliBabaHelperApp.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\AliBabaHelperApp\AliBabaHelperApp\obj\Debug\net6.0\AliBabaHelperApp.AssemblyInfo.cs
+C:\Users\Student\Desktop\AliBabaHelperApp\AliBabaHelperApp\obj\Debug\net6.0\AliBabaHelperApp.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\AliBabaHelperApp\AliBabaHelperApp\bin\Debug\net6.0\SesameTreasures.json
+C:\Users\Student\Desktop\AliBabaHelperApp\AliBabaHelperApp\bin\Debug\net6.0\AliBabaHelperApp.exe
+C:\Users\Student\Desktop\AliBabaHelperApp\AliBabaHelperApp\bin\Debug\net6.0\AliBabaHelperApp.deps.json
+C:\Users\Student\Desktop\AliBabaHelperApp\AliBabaHelperApp\bin\Debug\net6.0\AliBabaHelperApp.runtimeconfig.json
+C:\Users\Student\Desktop\AliBabaHelperApp\AliBabaHelperApp\bin\Debug\net6.0\AliBabaHelperApp.dll
+C:\Users\Student\Desktop\AliBabaHelperApp\AliBabaHelperApp\bin\Debug\net6.0\AliBabaHelperApp.pdb
+C:\Users\Student\Desktop\AliBabaHelperApp\AliBabaHelperApp\obj\Debug\net6.0\AliBabaHelperApp.dll
+C:\Users\Student\Desktop\AliBabaHelperApp\AliBabaHelperApp\obj\Debug\net6.0\refint\AliBabaHelperApp.dll
+C:\Users\Student\Desktop\AliBabaHelperApp\AliBabaHelperApp\obj\Debug\net6.0\AliBabaHelperApp.pdb
+C:\Users\Student\Desktop\AliBabaHelperApp\AliBabaHelperApp\obj\Debug\net6.0\AliBabaHelperApp.genruntimeconfig.cache
+C:\Users\Student\Desktop\AliBabaHelperApp\AliBabaHelperApp\obj\Debug\net6.0\ref\AliBabaHelperApp.dll
